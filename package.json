@@ -1,0 +1,22 @@
+{
+    "name": "html-parser-lite",
+    "version": "1.0.0",
+    "description": "A rough html parser made for parsing the html file export from chrome bookmarks",
+    "main": "html-parser.mjs",
+    "scripts": {
+        "test": "node html-parser-test.mjs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/flawiddsouza/html-parser-lite.git"
+    },
+    "author": "Flawid DSouza",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/flawiddsouza/html-parser-lite/issues"
+    },
+    "homepage": "https://github.com/flawiddsouza/html-parser-lite#readme",
+    "dependencies": {
+        "html-entities": "^2.3.2"
+    }
+}
